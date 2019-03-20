@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int acc = {0, 0, 0};
+int acc[3] = {0, 0, 0};
 %}
 
 CHAR = [a-z0-9]
